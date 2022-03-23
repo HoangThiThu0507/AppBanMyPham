@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProjectCuoiKhoa</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="answer_2">Bạn không thể tự hủy đơn hàng. Nếu muốn hủy đơn vui lòng nhắn tin cho shop để hủy.</string>
+    <string name="answer_3">Bạn không thể thay đổi địa chỉ sau khi đặt hàng.
+                            Nếu muốn thay đổi địa chỉ vui lòng nhắn tin cho shop để thay đổi.</string>
+</resources>
